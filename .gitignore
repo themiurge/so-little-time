@@ -1,0 +1,7 @@
+# ignore build outputs
+*.[oa]
+*.out
+
+# ignore temporary editor files
+*~
+
